@@ -1,0 +1,12 @@
+{
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
+
